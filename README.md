@@ -90,3 +90,5 @@ void loop() {
   delay(1000);
 }
 ```
+
+Và hy vọng là các tương tác giờ đây đã bằng tiếng Việt.
