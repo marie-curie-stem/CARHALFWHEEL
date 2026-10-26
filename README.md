@@ -1,9 +1,13 @@
 # CARHALFWHEEL - Xe Ba Bánh
 
+![GitHub License](https://img.shields.io/github/license/phuc1534/CARHALFWHEEL)
+![GitHub Release](https://img.shields.io/github/v/release/phuc1534/CARHALFWHEEL)
 
-This is an example code base.
+Đây là một cơ sở mã mẫu. - This is an example code base.
 
 ## Topic - Chủ đề 
+
+<img src="thử%20xe%20ba%20bánh%20-%20nhanh%20-%20chậm/IMG_3069.jpeg" align="right" width="30%">
 
 Đây là một ví dụ về việc thử xe ba bánh bằng động cơ
 - Đầu tiên: xe sẽ tiến về phía trước nhanh dần đều
